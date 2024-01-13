@@ -1,0 +1,55 @@
+﻿  source.c
+D:\Projects\Projet C 2023\source code\structures.h(108,11): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+D:\Projects\Projet C 2023\source code\structures.h(108,11): message : this argument is used by a conversion specifier
+D:\Projects\Projet C 2023\source code\structures.h(109,14): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char **'
+D:\Projects\Projet C 2023\source code\structures.h(109,14): warning C4024: 'strlen': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(156,14): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\Projects\Projet C 2023\source code\source.c(156,14): message : this argument is used as a buffer size
+D:\Projects\Projet C 2023\source code\source.c(159,14): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\Projects\Projet C 2023\source code\source.c(159,14): message : this argument is used as a buffer size
+D:\Projects\Projet C 2023\source code\source.c(387,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(387,17): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(389,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[20]'
+D:\Projects\Projet C 2023\source code\source.c(389,17): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(391,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[50]'
+D:\Projects\Projet C 2023\source code\source.c(391,17): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(515,19): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(515,19): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(521,12): warning C4013: 'gets' undefined; assuming extern returning int
+D:\Projects\Projet C 2023\source code\source.c(895,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(895,17): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(906,17): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(906,17): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1000,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(1000,13): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1125,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(1125,15): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1157,14): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[500]'
+D:\Projects\Projet C 2023\source code\source.c(1157,14): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1210,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(1210,15): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1246,14): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[200]'
+D:\Projects\Projet C 2023\source code\source.c(1246,14): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1247,16): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[200]'
+D:\Projects\Projet C 2023\source code\source.c(1247,16): warning C4024: 'strcpy_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1347,16): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[200]'
+D:\Projects\Projet C 2023\source code\source.c(1347,16): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1436,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[30]'
+D:\Projects\Projet C 2023\source code\source.c(1436,13): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1741,13): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[200]'
+D:\Projects\Projet C 2023\source code\source.c(1741,13): warning C4024: 'gets_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(1778,21): warning C4047: 'function': 'HPDF_Error_Handler' differs in levels of indirection from 'char [14]'
+D:\Projects\Projet C 2023\source code\source.c(1778,21): warning C4024: 'HPDF_New': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(2061,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[200]'
+D:\Projects\Projet C 2023\source code\source.c(2061,15): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(2062,15): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[200]'
+D:\Projects\Projet C 2023\source code\source.c(2062,15): warning C4024: 'strcat_s': different types for formal and actual parameter 1
+D:\Projects\Projet C 2023\source code\source.c(380,14): warning C4101: 'servID': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(490,14): warning C4101: 'k': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(583,14): warning C4101: 'medIDs': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(582,14): warning C4101: 'servID': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(988,10): warning C4101: 'pat_ddn': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(987,10): warning C4101: 'med_ddn': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(1426,10): warning C4101: 'pat_ddn': unreferenced local variable
+D:\Projects\Projet C 2023\source code\source.c(1535,11): warning C4101: 'med_name': unreferenced local variable
+  source code.vcxproj -> D:\Projects\Projet C 2023\x64\Debug\source code.exe
